@@ -9,6 +9,8 @@ text-to-speech singing voices played along to MIDI covers of pop songs.
 In so many ways, Alexei was—and still is—ahead of his time, and he’s been an inspiration to many
 who’ve discovered his music in the decades since 386 DX performed.
 
+Watch it sing: [the 386DX trailer](https://youtu.be/pwLnpyxqBS4).
+
 The singing voice of [386DX](https://github.com/seajaysec/386-DX-FM1-KaraokeBot), the karaoke-robot
 firmware for the M-VAVE FM-1, on its own. Give it a line of English words, a syllable number and the
 notes that syllable is sung on (one, or several for a held vowel), and it sings that syllable at
